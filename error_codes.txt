@@ -1,0 +1,8 @@
+
+This file contains all the error codes used for troubleshooting and debugging in this OS.
+
+Code          *********************         Description
+0x01                *                           Disk Read error.
+0x02                *                           A20 Enable error.
+0x03                *                           Memory Test error.
+0x04                *                           No Supported Video Mode Found.
